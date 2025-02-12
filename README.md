@@ -5,3 +5,4 @@
 ![Final Project Drawing (4)](https://github.com/user-attachments/assets/990eaecd-c497-41f6-8b4b-569777ab32d0)
 ![Final Project Drawing (5)](https://github.com/user-attachments/assets/5006fc7f-1f95-452b-93d5-25ea726888f9)
 ![Final Project Drawing (6)](https://github.com/user-attachments/assets/7c3c4bec-75da-4fea-8617-7f0a7e840392)
+![Final Project Drawing (7)](https://github.com/user-attachments/assets/8ba2a1a0-0e57-4386-8d7c-678f13235bf4)

@@ -2,6 +2,7 @@
 ## Programming
 ### ELO Program 
 #### Player Class File
+```
 #include <cmath>
 #include <iostream>
 #include <fstream>
@@ -126,8 +127,9 @@ void eloCalculation(Player &A, Player &B, int AScore, int BScore){
     A.savePlayer();
     B.savePlayer();
 }
-
+```
 #### Main File
+```
 #include <iostream>
 #include <fstream>
 #include "C:\Users\Intern Samuel\Desktop\C Workspace\ELO_Math.h"
@@ -147,13 +149,14 @@ int main(){
 
     return 0;
 }
-
+```
 #### Save File
+```
 P1
 816
 P2
 688
-
+```
 ## CAD Work
 ### Final Project Fan Design
 ![Final Project Drawing](https://github.com/user-attachments/assets/ff8eaba7-9001-492f-a379-8945b36a60c3)

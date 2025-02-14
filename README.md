@@ -1,6 +1,7 @@
 # Portfolio
 ## Programming
 ### ELO Program 
+Simple program written to practice basic object oriented programming skills
 #### Player Class File
 ```
 #include <cmath>

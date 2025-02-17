@@ -1,9 +1,9 @@
 # Portfolio
 ## Resume
 ```
-                                                    Samuel Breaux
-                                        SamuelWBreaux@gmail.com • 985-789-6302
-                                https://www.linkedin.com/in/samuel-breaux-2a7002259/
+                                                        Samuel Breaux
+                                            SamuelWBreaux@gmail.com • 985-789-6302
+                                    https://www.linkedin.com/in/samuel-breaux-2a7002259/
 
 
 EDUCATION

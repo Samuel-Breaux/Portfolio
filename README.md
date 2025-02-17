@@ -1,4 +1,56 @@
 # Portfolio
+## Resume
+```
+Samuel Breaux
+SamuelWBreaux@gmail.com • 985-789-6302
+https://www.linkedin.com/in/samuel-breaux-2a7002259/
+
+
+EDUCATION
+Southeastern Louisiana University, Hammond, Louisiana
+Bachelor of Science in Engineering Technology with a concentration in Mechatronics
+GPA:3.49/4.00
+Related Coursework:
+Electronics I
+Digital Computer Logic and Organization
+Programmable Logic Controllers
+Robotics and Automation
+Digital Electronics
+Engineering Graphics
+
+RELEVANT EXPERIENCE
+Raising Canes, Mandeville, Louisiana
+Crew Mate, June 2022 - Dec 2022
+●	Completed training for both kitchen and customer service work.
+●	Attained skills in communication working in a team environment and handling customer transactions.
+●	Learned problem solving methods dealing with customer and employee conflicts.
+
+CLASS PROJECT EXPERIENCE
+Glove Controlled Robotic Arm, Hammond, Louisiana
+Senior Design, January 2024 - December 2024
+●	Designed the glove PCB for the glove controlled robotic arm project.
+●	Wrote the glove data transfer program and troubleshooted the robotic arm control program.
+●	Had the role of glove design and troubleshooting. 
+
+CAMPUS & COMMUNITY INVOLVEMENT
+SLU Gaming
+Secretary, Fall 2021 - Fall 2023
+●	Organized the communication methods of the club and assisted in advertisement. Also attended all club leadership meetings to determine the use of the budget as well as scheduling of events.
+●	Obtained organizational and managerial skills in a leadership role.
+
+SKILLS
+Computer: Microsoft Word, Excel, PowerPoint, VS Code, and Fusion 360
+Language: C, C#, C++, and Python
+
+HONORS AND AWARDS
+Honor Roll, December 2021
+President’s List, May 2022
+President’s List, December 2022
+President’s List, May 2023
+President’s List, December 2023
+President’s List, May 2024
+President’s List, December 2024
+```
 ## Programming
 ### ELO Program 
 Simple program written to practice basic object oriented programming skills

@@ -52,7 +52,6 @@ President’s List, May 2024
 President’s List, December 2024
 ```
 ## Senior Project
-```
 <p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 16.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
@@ -1136,7 +1135,7 @@ References
 
 
     Younis, Omar. “Building a Cycloidal Drive with SOLIDWORKS.” 2014. *Dassault Systèmes*, https://blogs.solidworks.com/teacher/2014/07/building-a-cycloidal-drive-with-solidworks.html.
-```
+
 ## Programming
 ### ELO Program 
 Simple program written to practice basic object oriented programming skills
